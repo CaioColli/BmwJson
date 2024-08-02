@@ -1,0 +1,341 @@
+[{
+    "ID_Carro": "1",
+    "Modelo": "BMW iX",
+    "Descrição": "Elétrico",
+    "Preço": 699950,
+    "FiltroCarroçaria": "BMW i",
+    "FiltroCombustível": "Elétrico",
+    "FiltroLinha": "BMW i",
+    "FotoLateral": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/iX/BMW%20iX%20(Lateral).png",
+    "FotoFrontal": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/iX/BMW%20iX%20(Frente).png"
+}, {
+    "ID_Carro": "2",
+    "Modelo": "BMW i4",
+    "Descrição": "Elétrico",
+    "Preço": 469950,
+    "FiltroCarroçaria": "BMW i",
+    "FiltroCombustível": "Elétrico",
+    "FiltroLinha": "BMW i",
+    "FotoLateral": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/i4/i4%20(Lateral).png",
+    "FotoFrontal": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/i4/i4%20(Frente).png"
+}, {
+    "ID_Carro": "3",
+    "Modelo": "BMW i7",
+    "Descrição": "Elétrico",
+    "Preço": 1321950,
+    "FiltroCarroçaria": "BMW i",
+    "FiltroCombustível": "Elétrico",
+    "FiltroLinha": "BMW i",
+    "FotoLateral": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/i7/i7%20(Lateral).png",
+    "FotoFrontal": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/i7/i7%20(Frente).png"
+}, {
+    "ID_Carro": "4",
+    "Modelo": "BMW iX M60",
+    "Descrição": "Elétrico",
+    "Preço": 1101950,
+    "FiltroCarroçaria": "BMW i",
+    "FiltroCombustível": "Elétrico",
+    "FiltroLinha": "BMW i",
+    "FotoLateral": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/iX%20M60/BMW%20iX%20M60%20(Lateral).png",
+    "FotoFrontal": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/iX%20M60/BMW%20iX%20M60%20(Frente).png"
+}, {
+    "ID_Carro": "5",
+    "Modelo": "BMW iX3",
+    "Descrição": "Elétrico",
+    "Preço": 500950,
+    "FiltroCarroçaria": "Sports Activity Vehicle",
+    "FiltroCombustível": "Elétrico",
+    "FiltroLinha": "BMW i",
+    "FotoLateral": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/iX3/BMW%20iX3%20(Lateral).png",
+    "FotoFrontal": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/iX3/BMW%20iX3%20(Frente).png"
+}, {
+    "ID_Carro": "6",
+    "Modelo": "BMW iX2",
+    "Descrição": "Elétrico",
+    "Preço": 443950,
+    "FiltroCarroçaria": "Sports Activity Vehicle",
+    "FiltroCombustível": "Elétrico",
+    "FiltroLinha": "BMW i",
+    "FotoLateral": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/iX2/BMW%20iX2%20(Lateral).png",
+    "FotoFrontal": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/iX2/BMW%20iX2%20(Frente).png"
+}, {
+    "ID_Carro": "7",
+    "Modelo": "BMW iX1",
+    "Descrição": "Elétrico",
+    "Preço": 359950,
+    "FiltroCarroçaria": "BMW i",
+    "FiltroCombustível": "Elétrico",
+    "FiltroLinha": "BMW i",
+    "FotoLateral": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/iX1/BMW%20iX1%20(Lateral).png",
+    "FotoFrontal": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/iX1/BMW%20iX1%20(Frente).png"
+}, {
+    "ID_Carro": "8",
+    "Modelo": "BMW X7 M60i",
+    "Descrição": "Gasolina",
+    "Preço": 1101950,
+    "FiltroCarroçaria": "Sedã",
+    "FiltroCombustível": "Gasolina",
+    "FiltroLinha": "X",
+    "FotoLateral": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/X7%20M60i/BMW%20X7%20M60i%20(Lateral).png",
+    "FotoFrontal": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/X7%20M60i/BMW%20X7%20M60i%20(Frente).png"
+}, {
+    "ID_Carro": "9",
+    "Modelo": "BMW X6",
+    "Descrição": "Gasolina",
+    "Preço": 842950,
+    "FiltroCarroçaria": "Sports Activity Coupé",
+    "FiltroCombustível": "Gasolina",
+    "FiltroLinha": "X",
+    "FotoLateral": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/X6/x6%20(Lateral).png",
+    "FotoFrontal": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/X6/x6%20(Frente).png"
+}, {
+    "ID_Carro": "10",
+    "Modelo": "BMW X6 M Competition",
+    "Descrição": "Gasolina",
+    "Preço": 1217950,
+    "FiltroCarroçaria": "Sports Activity Vehicle",
+    "FiltroCombustível": "Gasolina",
+    "FiltroLinha": "X",
+    "FotoLateral": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/X6%20M%20Competition/BMW%20X6%20M%20Competition%20(Lateral).png",
+    "FotoFrontal": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/X6%20M%20Competition/BMW%20X6%20M%20Competition%20(Frente).png)"
+}, {
+    "ID_Carro": "11",
+    "Modelo": "BMW X5",
+    "Descrição": "Plug-in Híbrido",
+    "Preço": 751950,
+    "FiltroCarroçaria": "Sports Activity Coupé",
+    "FiltroCombustível": "Plug-in Híbrido",
+    "FiltroLinha": "X",
+    "FotoLateral": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/X5/BMW%20X5%20(Lateral).png",
+    "FotoFrontal": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/X5/BMW%20X5%20(Frente).png"
+}, {
+    "ID_Carro": "12",
+    "Modelo": "BMW X4",
+    "Descrição": "Gasolina",
+    "Preço": 504950,
+    "FiltroCarroçaria": "Sports Activity Coupé",
+    "FiltroCombustível": "Gasolina",
+    "FiltroLinha": "X",
+    "FotoLateral": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/X4/BMW%20X4%20(Lateral).png",
+    "FotoFrontal": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/X4/BMW%20X4%20(Frente).png"
+}, {
+    "ID_Carro": "13",
+    "Modelo": "BMW X3",
+    "Descrição": "Gasolina • Plug-in Híbrido",
+    "Preço": 433950,
+    "FiltroCarroçaria": "Sports Activity Vehicle",
+    "FiltroCombustível": "Gasolina",
+    "FiltroLinha": "X",
+    "FotoLateral": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/X3/BMW%20X3%20(Lateral).png",
+    "FotoFrontal": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/X3/BMW%20X3%20(Frente).png"
+}, {
+    "ID_Carro": "14",
+    "Modelo": "BMW X2",
+    "Descrição": "Gasolina",
+    "Preço": 388950,
+    "FiltroCarroçaria": "Sports Activity Coupé",
+    "FiltroCombustível": "Gasolina",
+    "FiltroLinha": "X",
+    "FotoLateral": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/X2/BMW%20X2%20(Lateral).png",
+    "FotoFrontal": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/X2/BMW%20X2%20(Frente).png"
+}, {
+    "ID_Carro": "15",
+    "Modelo": "BMW X1",
+    "Descrição": "Gasolina",
+    "Preço": 299950,
+    "FiltroCarroçaria": "Sports Activity Vehicle",
+    "FiltroCombustível": "Gasolina",
+    "FiltroLinha": "X",
+    "FotoLateral": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/X1/BMW%20X1%20(Lateral).png",
+    "FotoFrontal": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/X1/BMW%20X1%20(Frente).png"
+}, {
+    "ID_Carro": "16",
+    "Modelo": "BMW iX",
+    "Descrição": "Elétrico",
+    "Preço": 699950,
+    "FiltroCarroçaria": "BMW i",
+    "FiltroCombustível": "Elétrico",
+    "FiltroLinha": "X",
+    "FotoLateral": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/iX/BMW%20iX%20(Lateral).png",
+    "FotoFrontal": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/iX/BMW%20iX%20(Frente).png"
+}, {
+    "ID_Carro": "19",
+    "Modelo": "BMW iX M60",
+    "Descrição": "Elétrico",
+    "Preço": 1101950,
+    "FiltroCarroçaria": "BMW i",
+    "FiltroCombustível": "Elétrico",
+    "FiltroLinha": "X",
+    "FotoLateral": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/iX%20M60/BMW%20iX%20M60%20(Lateral).png",
+    "FotoFrontal": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/iX%20M60/BMW%20iX%20M60%20(Frente).png"
+}, {
+    "ID_Carro": "20",
+    "Modelo": "BMW iX3",
+    "Descrição": "Elétrico",
+    "Preço": 500950,
+    "FiltroCarroçaria": "Sports Activity Vehicle",
+    "FiltroCombustível": "Elétrico",
+    "FiltroLinha": "X",
+    "FotoLateral": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/iX3/BMW%20iX3%20(Lateral).png",
+    "FotoFrontal": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/iX3/BMW%20iX3%20(Frente).png"
+}, {
+    "ID_Carro": "21",
+    "Modelo": "BMW iX2",
+    "Descrição": "Elétrico",
+    "Preço": 443950,
+    "FiltroCarroçaria": "Sports Activity Vehicle",
+    "FiltroCombustível": "Elétrico",
+    "FiltroLinha": "X",
+    "FotoLateral": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/iX2/BMW%20iX2%20(Lateral).png",
+    "FotoFrontal": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/iX2/BMW%20iX2%20(Frente).png"
+}, {
+    "ID_Carro": "22",
+    "Modelo": "BMW iX1",
+    "Descrição": "Elétrico",
+    "Preço": 359950,
+    "FiltroCarroçaria": "BMW i",
+    "FiltroCombustível": "Elétrico",
+    "FiltroLinha": "X",
+    "FotoLateral": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/iX1/BMW%20iX1%20(Lateral).png",
+    "FotoFrontal": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/iX1/BMW%20iX1%20(Frente).png"
+}, {
+    "ID_Carro": "23",
+    "Modelo": "BMW X6 M Competition",
+    "Descrição": "Gasolina",
+    "Preço": 1217950,
+    "FiltroCarroçaria": "Sports Activity Vehicle",
+    "FiltroCombustível": "Gasolina",
+    "FiltroLinha": "M",
+    "FotoLateral": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/X6%20M%20Competition/BMW%20X6%20M%20Competition%20(Lateral).png",
+    "FotoFrontal": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/X6%20M%20Competition/BMW%20X6%20M%20Competition%20(Frente).png"
+}, {
+    "ID_Carro": "24",
+    "Modelo": "BMW i5 M60",
+    "Descrição": "Elétrico",
+    "Preço": 759950,
+    "FiltroCarroçaria": "Sedã",
+    "FiltroCombustível": "Elétrico",
+    "FiltroLinha": "M",
+    "FotoLateral": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/i5%20M60/BMW%20i5%20M60%20(Lateral).png",
+    "FotoFrontal": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/i5%20M60/BMW%20i5%20M60%20(Frente).png"
+}, {
+    "ID_Carro": "25",
+    "Modelo": "BMW M3 Competition",
+    "Descrição": "Gasolina",
+    "Preço": 829950,
+    "FiltroCarroçaria": "Sedã",
+    "FiltroCombustível": "Gasolina",
+    "FiltroLinha": "M",
+    "FotoLateral": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/M3/m3%20(Lateral).png",
+    "FotoFrontal": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/M3/m3%20(Frente).png"
+}, {
+    "ID_Carro": "26",
+    "Modelo": "BMW M2 Coupé",
+    "Descrição": "Gasolina",
+    "Preço": 620950,
+    "FiltroCarroçaria": "Coupé",
+    "FiltroCombustível": "Gasolina",
+    "FiltroLinha": "M",
+    "FotoLateral": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/M2/m2%20(Lateral).png",
+    "FotoFrontal": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/M2/m2%20(Frente).png"
+}, {
+    "ID_Carro": "27",
+    "Modelo": "530e M Sport",
+    "Descrição": "Plug-in Híbrido",
+    "Preço": 574950,
+    "FiltroCarroçaria": "Sedã",
+    "FiltroCombustível": "Plug-in Híbrido",
+    "FiltroLinha": "5",
+    "FotoLateral": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/530e%20M%20Sport/530e%20M%20Sport%20(Lateral).png",
+    "FotoFrontal": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/530e%20M%20Sport/530e%20M%20Sport%20(Frente).png"
+}, {
+    "ID_Carro": "28",
+    "Modelo": "BMW Série 4 Cabrio",
+    "Descrição": "Gasolina",
+    "Preço": 479950,
+    "FiltroCarroçaria": "Cabrio",
+    "FiltroCombustível": "Gasolina",
+    "FiltroLinha": "4",
+    "FotoLateral": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/Serie%204/serie%204%20(Lateral).png",
+    "FotoFrontal": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/Serie%204/serie%204%20(Frente).png"
+}, {
+    "ID_Carro": "29",
+    "Modelo": "BMW i4",
+    "Descrição": "Elétrico",
+    "Preço": 469950,
+    "FiltroCarroçaria": "BMW i",
+    "FiltroCombustível": "Elétrico",
+    "FiltroLinha": "4",
+    "FotoLateral": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/i4/i4%20(Lateral).png",
+    "FotoFrontal": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/i4/i4%20(Frente).png"
+}, {
+    "ID_Carro": "30",
+    "Modelo": "BMW Série 3 Sedã",
+    "Descrição": "ActiveFlex",
+    "Preço": 322950,
+    "FiltroCarroçaria": "Sedã",
+    "FiltroCombustível": "ActiveFlex",
+    "FiltroLinha": "3",
+    "FotoLateral": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/Serie%203%20Sed%C3%A3/BMW%20S%C3%A9rie%203%20Sed%C3%A3%20(Lateral).png",
+    "FotoFrontal": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/Serie%203%20Sed%C3%A3/BMW%20S%C3%A9rie%203%20Sed%C3%A3%20(Frente).png"
+}, {
+    "ID_Carro": "31",
+    "Modelo": "BMW Série 2 Coupé",
+    "Descrição": "Gasolina",
+    "Preço": 320950,
+    "FiltroCarroçaria": "Coupé",
+    "FiltroCombustível": "Gasolina",
+    "FiltroLinha": "2",
+    "FotoLateral": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/Serie%202%20Gran%20Coup%C3%A9/BMW%20S%C3%A9rie%202%20Gran%20Coup%C3%A9%20(Lateral).png",
+    "FotoFrontal": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/Serie%202%20Gran%20Coup%C3%A9/BMW%20S%C3%A9rie%202%20Gran%20Coup%C3%A9%20(Frente).png"
+}, {
+    "ID_Carro": "32",
+    "Modelo": "BMW Série 1",
+    "Descrição": "Gasolina",
+    "Preço": 320950,
+    "FiltroCarroçaria": "Hatch",
+    "FiltroCombustível": "Gasolina",
+    "FiltroLinha": "1",
+    "FotoLateral": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/Serie%201/BMW%20S%C3%A9rie%201%20(Lateral).png",
+    "FotoFrontal": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/Serie%201/BMW%20S%C3%A9rie%201%20(Frente).png"
+}, {
+    "ID_Carro": "33",
+    "Modelo": "BMW Série 3 Sedã",
+    "Descrição": "Plug-in Híbrido",
+    "Preço": 422950,
+    "FiltroCarroçaria": "Sedã",
+    "FiltroCombustível": "Plug-in Híbrido",
+    "FiltroLinha": "PLUG-IN HÍBRIDO",
+    "FotoLateral": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/Serie%203%20Sed%C3%A3/BMW%20S%C3%A9rie%203%20Sed%C3%A3%20(Lateral).png",
+    "FotoFrontal": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/Serie%203%20Sed%C3%A3/BMW%20S%C3%A9rie%203%20Sed%C3%A3%20(Frente).png"
+}, {
+    "ID_Carro": "34",
+    "Modelo": "530e M Sport",
+    "Descrição": "Plug-in Híbrido",
+    "Preço": 574950,
+    "FiltroCarroçaria": "Sedã",
+    "FiltroCombustível": "Plug-in Híbrido",
+    "FiltroLinha": "PLUG-IN HÍBRIDO",
+    "FotoLateral": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/530e%20M%20Sport/530e%20M%20Sport%20(Lateral).png",
+    "FotoFrontal": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/530e%20M%20Sport/530e%20M%20Sport%20(Frente).png"
+}, {
+    "ID_Carro": "35",
+    "Modelo": "BMW X3",
+    "Descrição": "Plug-in Híbrido",
+    "Preço": 419950,
+    "FiltroCarroçaria": "Sports Activity Vehicle",
+    "FiltroCombustível": "Plug-in Híbrido",
+    "FiltroLinha": "PLUG-IN HÍBRIDO",
+    "FotoLateral": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/X3/BMW%20X3%20(Lateral).png",
+    "FotoFrontal": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/X3/BMW%20X3%20(Frente).png"
+}, {
+    "ID_Carro": "36",
+    "Modelo": "BMW X5",
+    "Descrição": "Plug-in Híbrido",
+    "Preço": 751950,
+    "FiltroCarroçaria": "Sports Activity Coupé",
+    "FiltroCombustível": "Plug-in Híbrido",
+    "FiltroLinha": "PLUG-IN HÍBRIDO",
+    "FotoLateral": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/X5/BMW%20X5%20(Lateral).png",
+    "FotoFrontal": "https://raw.githubusercontent.com/CaioColli/BmwJson/main/Images/X5/BMW%20X5%20(Frente).png"
+}]
